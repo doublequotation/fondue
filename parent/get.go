@@ -8,6 +8,7 @@ import (
 	"github.com/goware/urlx"
 )
 
+// For making a parent node
 func MakeParent(url string, pw string) Host {
 	if strings.HasPrefix(url, "http") {
 		u, _ := urlx.Parse(url)
