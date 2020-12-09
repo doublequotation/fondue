@@ -1,0 +1,20 @@
+# github.com/PuerkitoBio/purell v1.1.1
+github.com/PuerkitoBio/purell
+# github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578
+github.com/PuerkitoBio/urlesc
+# github.com/ashtyn3/zi v0.0.0-20201206233142-313bfc88af51
+## explicit
+github.com/ashtyn3/zi/api
+github.com/ashtyn3/zi/crypto
+github.com/ashtyn3/zi/pkg
+# github.com/goware/urlx v0.3.1
+## explicit
+github.com/goware/urlx
+# golang.org/x/net v0.0.0-20190213061140-3a22650c66bd
+golang.org/x/net/idna
+# golang.org/x/text v0.3.0
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+golang.org/x/text/width
